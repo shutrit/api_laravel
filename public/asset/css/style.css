@@ -1,0 +1,44 @@
+* {
+	margin:0;
+	padding:0;
+}
+
+
+.sag {
+
+	color:gold;
+}
+
+		@import url(//fonts.googleapis.com/css?family=Lato:700);
+
+		body {
+			margin:0;
+			font-family:'Lato', sans-serif;
+		
+			color: #999;
+		}
+
+		.welcome {
+			width: 60%;
+			height: 60%;
+			margin:20px auto;
+			background:#F0F0F0;
+		}
+		section {
+
+			margin-left:5px;
+		}
+		a, a:visited {
+			text-decoration:none;
+		}
+
+		section >h2 {
+			font-size: 24px;
+			padding:10px;
+			color:#4169E1;
+			margin: 16px 0 0 0;
+		}
+		label {
+			color:#4169E1;
+		}
+      
